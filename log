@@ -1,0 +1,97 @@
+[15/01/24 18:40:21] Server is running at http://localhost:5000
+[15/01/24 18:40:32] Server is running at http://localhost:5000
+[15/01/24 18:42:10] Server is running at http://localhost:5000
+[15/01/24 18:43:17] Server is running at http://localhost:5000
+[15/01/24 18:43:52] Server is running at http://localhost:5000
+[15/01/24 18:46:02] Server is running at http://localhost:5000
+[15/01/24 18:50:27] PUT / [secure=true]
+[15/01/24 18:50:27] POST /login [secure=false]
+[15/01/24 18:50:27] Server is running at http://localhost:5000
+[15/01/24 18:51:05] Server is running at http://localhost:5000
+[15/01/24 18:51:10] Server is running at http://localhost:5000
+[15/01/24 18:51:18] Server is running at http://localhost:5000
+[15/01/24 18:51:40] Server is running at http://localhost:5000
+[15/01/24 18:57:39] Server is running at http://localhost:5000
+[15/01/24 18:57:50] Server is running at http://localhost:5000
+[15/01/24 19:03:21] Server is running at http://localhost:5000
+[15/01/24 19:03:53] Server is running at http://localhost:5000
+[15/01/24 19:03:56] Server is running at http://localhost:5000
+[15/01/24 19:03:57] Server is running at http://localhost:5000
+[15/01/24 19:04:52] Server is running at http://localhost:5000
+[15/01/24 19:04:59] Server is running at http://localhost:5000
+[15/01/24 19:05:20] Server is running at http://localhost:5000
+[15/01/24 19:05:35] [::1] POST undefined
+[15/01/24 19:06:34] Server is running at http://localhost:5000
+[15/01/24 19:06:42] Server is running at http://localhost:5000
+[15/01/24 19:06:44] Server is running at http://localhost:5000
+[15/01/24 19:06:50] Server is running at http://localhost:5000
+[15/01/24 19:07:26] Server is running at http://localhost:5000
+[15/01/24 19:07:43] Server is running at http://localhost:5000
+[15/01/24 19:08:00] Server is running at http://localhost:5000
+[15/01/24 19:09:28] Server is running at http://localhost:5000
+[15/01/24 19:12:00] Server is running at http://localhost:5000
+[15/01/24 19:12:52] Connected to database
+[15/01/24 19:12:52] Server is running at http://localhost:5000
+[15/01/24 19:13:18] [::1] POST undefined
+[15/01/24 19:13:38] Connected to database
+[15/01/24 19:13:38] Server is running at http://localhost:5000
+[15/01/24 19:14:35] Connected to database
+[15/01/24 19:14:35] Server is running at http://localhost:5000
+[15/01/24 19:14:38] [::1] POST /user/login
+[15/01/24 19:15:49] Connected to database
+[15/01/24 19:15:49] Server is running at http://localhost:5000
+[15/01/24 19:15:52] [::1] POST /user/login
+[15/01/24 19:16:08] Connected to database
+[15/01/24 19:16:08] Server is running at http://localhost:5000
+[15/01/24 19:16:10] [::1] POST /user/login
+[15/01/24 19:16:40] Connected to database
+[15/01/24 19:16:40] Server is running at http://localhost:5000
+[15/01/24 19:16:43] Connected to database
+[15/01/24 19:16:43] Server is running at http://localhost:5000
+[15/01/24 19:16:46] [::1] POST /user/login
+[15/01/24 19:16:51] Connected to database
+[15/01/24 19:16:51] Server is running at http://localhost:5000
+[15/01/24 19:16:57] Connected to database
+[15/01/24 19:16:57] Server is running at http://localhost:5000
+[15/01/24 19:17:00] [::1] POST /user/login
+[15/01/24 19:17:43] Connected to database
+[15/01/24 19:17:43] Server is running at http://localhost:5000
+[15/01/24 19:17:46] [::1] POST /user/login
+[15/01/24 19:18:48] [::1] POST /user/login
+[15/01/24 19:18:54] Connected to database
+[15/01/24 19:18:54] Server is running at http://localhost:5000
+[15/01/24 19:18:57] [::1] POST /user/login
+[15/01/24 19:19:39] Connected to database
+[15/01/24 19:19:39] Server is running at http://localhost:5000
+[15/01/24 19:19:41] [::1] POST /user/login
+[15/01/24 19:19:45] [::1] POST /user/login
+[15/01/24 19:21:43] [::1] PUT /user
+[15/01/24 19:22:37] Connected to database
+[15/01/24 19:22:37] Server is running at http://localhost:5000
+[15/01/24 19:22:39] Connected to database
+[15/01/24 19:22:39] Server is running at http://localhost:5000
+[15/01/24 19:22:44] [::1] PUT /user
+[15/01/24 19:22:57] Connected to database
+[15/01/24 19:22:57] Server is running at http://localhost:5000
+[15/01/24 19:23:22] Connected to database
+[15/01/24 19:23:22] Server is running at http://localhost:5000
+[15/01/24 19:23:26] Connected to database
+[15/01/24 19:23:26] Server is running at http://localhost:5000
+[15/01/24 19:23:29] [::1] PUT /user
+[15/01/24 19:24:25] Connected to database
+[15/01/24 19:24:25] Server is running at http://localhost:5000
+[15/01/24 19:24:29] [::1] PUT /user
+[15/01/24 19:27:37] Connected to database
+[15/01/24 19:27:37] Server is running at http://localhost:5000
+[15/01/24 19:38:04] Connected to database
+[15/01/24 19:38:04] Server is running at http://localhost:5000
+[15/01/24 19:38:09] [::1] PUT /user
+[15/01/24 19:38:30] Connected to database
+[15/01/24 19:38:30] Server is running at http://localhost:5000
+[15/01/24 19:38:32] [::1] PUT /user
+[15/01/24 19:38:43] Connected to database
+[15/01/24 19:38:43] Server is running at http://localhost:5000
+[15/01/24 19:38:45] [::1] PUT /user
+[15/01/24 19:39:49] Connected to database
+[15/01/24 19:39:49] Server is running at http://localhost:5000
+[15/01/24 19:39:54] [::1] PUT /user
